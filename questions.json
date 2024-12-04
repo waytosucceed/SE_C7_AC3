@@ -1,0 +1,112 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "Solve :<br> (-6) × (+4).",
+      "options": [
+          "-24",
+          "+24",
+          "-10",
+          "+10"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q2",
+      "question": "What will be the final sign of the following expression?<br><img src='./assests/images/1.jpg' width='80%' alt=''><br> Here, a circle with a minus sign means negative number and a circle with a plus sign means positive number.",
+      "options": [
+          "positive",
+          "negative",
+          "zero",
+          "Information is insufficient"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Simplify :<br> [(-32) ÷ (-8)] ÷ (+2)",
+      "options": [
+          "+2",
+          "-2",
+          "+4",
+          "-4"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Simplify :<br> [(-6) × (-7)] ÷ (+14)",
+      "options": [
+          "-3",
+          "+3",
+          "+28",
+          "-4"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q5",
+      "question": "Which of the following option has the same value as :<br> [(-9) × (-2)] × (-3)",
+      "options": [
+          "[7 - (-2) ] × (+3)",
+          "[(-12) - (-4) ] × (-3)",
+          "[19 - (-8) ] × (-2)",
+          "[13 - (-2) ] × (-5)"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q6",
+      "question": "Value of [(43 + (-52)) × (-4)] ÷ (-12 ÷ (2))",
+      "options": [
+          "-3",
+          "+9",
+          "-6",
+          "+6"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q7",
+      "question": "A company makes $50 profit on 7 items but incurs $20 loss on 3 faulty items. What is the net profit?",
+      "options": [
+          "$270",
+          "$280",
+          "$290",
+          "$310"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q8",
+      "question": "A submarine descends 8 meters/min for 6 minutes, then ascends 4 meters/minute for 5 minutes. What is its final position?",
+      "options": [
+          "-28 meters",
+          "-32 meters",
+          "-48 meters",
+          "-20 meters"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q9",
+      "question": "A warehouse stacks 15 boxes per row, each weighing -4 kg (negative because it’s being lifted down from a shelf). If there are 12 rows, what is the total weight moved?",
+      "options": [
+          "-720 kg",
+          "+720 kg",
+          "-180 kg",
+          "+180 kg"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q10",
+      "question": "A hot air balloon starts at an altitude of 50 meters above ground level. It ascends at a rate of 8 meters per minute for 4 minutes. Then, it descends at a rate of 5 meters per minute for 6 minutes. What is the balloon's final altitude above ground level?",
+      "options": [
+          "-52 meters",
+          "+52 meters",
+          "-54 meters",
+          "+60 meters"
+      ],
+      "correct": 1
+  }
+]
